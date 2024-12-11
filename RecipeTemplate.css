@@ -1,0 +1,84 @@
+body{
+    background-color: rgb(231, 204, 204);
+    width: 600px;
+    margin: auto;
+}
+.template{
+    width:27vw;
+    height: 143vh;
+    background-color: white;
+    margin-top: 40px;
+    border-radius: 6px;
+}
+img{
+width: 350px;
+height: 165px;
+padding-top: 20px;
+padding-left: 25px;
+border-radius: 6px;
+}
+h2{
+margin-top: -10px;
+margin-left: 5px;
+}
+.paragraph1{
+margin-left: 22px;
+margin-top: -12px;
+font-size: small;
+color: #3e3d3d;
+}
+.innerbox{
+ width:24vw ;
+ height: 15vh;
+ background-color:rgb(246, 238, 238) ;
+ margin-left: 20px;
+ border-radius: 6px;
+ margin-top: 5px;
+}
+.spacing{
+    margin:0;
+}
+h4{
+padding-left: 12px;
+padding-top: 5px;
+font-size: medium;
+color: brown;
+}
+ul{
+padding-left: 28px;
+padding-top: 5px;
+font-size:small;
+color:#3e3d3d ;
+}
+.space1,.space2{
+ padding-top: 5px;   
+}
+h3{
+margin-top:-10px;
+margin-left:23px ;
+color: brown;
+}
+.list2{
+margin-top: -15px;
+margin-left: 9px;
+ }
+hr{
+margin-left: 20px;
+margin-right: 27px;
+color: #9a9a9a;
+}
+ol{
+ color: #3e3d3d;
+ font-size: small;
+ padding-left: 25px;
+}
+.table,.table1,.table2,.table3,.table4{
+    color: #3e3d3d;
+    font-size: small;
+    padding-left: 25px;  
+  
+}
+span{
+    color: brown;
+    
+}
